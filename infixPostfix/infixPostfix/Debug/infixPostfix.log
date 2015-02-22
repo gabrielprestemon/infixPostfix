@@ -1,0 +1,7 @@
+﻿  stack.cpp
+  queue.cpp
+  main.cpp
+c:\users\gabriel prestemon\documents\github\infixpostfix\infixpostfix\infixpostfix\main.cpp(21): warning C4244: 'argument' : conversion from 'time_t' to 'unsigned int', possible loss of data
+  expression.cpp
+  Generating Code...
+  infixPostfix.vcxproj -> C:\Users\Gabriel Prestemon\Documents\GitHub\infixPostfix\infixPostfix\Debug\infixPostfix.exe
