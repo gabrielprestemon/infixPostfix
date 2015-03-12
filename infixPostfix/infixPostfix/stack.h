@@ -24,6 +24,10 @@ public:
 
 	//print the stack
 	void display();
+	//check to see if the stack is empty
+	bool isEmpty(){ return cnt ? false : true; }
+	//returns the top item on the stack if it's not empty, or 0 (false)
+	T checkTop(){ return cnt ? top->data : 0; }
 };
 
 #endif

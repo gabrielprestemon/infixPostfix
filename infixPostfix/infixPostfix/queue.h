@@ -25,6 +25,10 @@ public:
 
 	//display the queue
 	void display();
+	//check to see if the queue is empty
+	bool isEmpty(){ return cnt ? false : true; }
+	//returns the top item on the stack if it's not empty, or 0 (false)
+	T checkFront(){ return cnt ? front->data : 0; }
 };
 
 #endif

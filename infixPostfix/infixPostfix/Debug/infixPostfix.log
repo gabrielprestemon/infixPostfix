@@ -1,7 +1,4 @@
-﻿  stack.cpp
-  queue.cpp
-  main.cpp
-c:\users\gabriel prestemon\documents\github\infixpostfix\infixpostfix\infixpostfix\main.cpp(21): warning C4244: 'argument' : conversion from 'time_t' to 'unsigned int', possible loss of data
-  expression.cpp
-  Generating Code...
+﻿  expression.cpp
+c:\users\gabriel prestemon\documents\github\infixpostfix\infixpostfix\infixpostfix\expression.cpp(13): warning C4018: '<' : signed/unsigned mismatch
+c:\users\gabriel prestemon\documents\github\infixpostfix\infixpostfix\infixpostfix\expression.cpp(147): warning C4018: '<' : signed/unsigned mismatch
   infixPostfix.vcxproj -> C:\Users\Gabriel Prestemon\Documents\GitHub\infixPostfix\infixPostfix\Debug\infixPostfix.exe
